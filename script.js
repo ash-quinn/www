@@ -3,6 +3,7 @@ function toggleDarkMode() {
     element.classList.toggle("dark-mode");
 }
 
+//this is fucking stupid but im going to leave it
 function randomEmoji(){
     let emojis = ["😉", "😎", "🤓", "😲", "🧑"];
     
